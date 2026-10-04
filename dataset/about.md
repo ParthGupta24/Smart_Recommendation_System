@@ -1,0 +1,2 @@
+This is a temporary file<br><hr>
+The purpose of `dataset/` is to hold our dataset. For the scope of this project, we have selected [**MovieLens 100K**](https://www.kaggle.com/datasets/abhikjha/movielens-100k) dataset (source : Kaggle)
